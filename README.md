@@ -6,9 +6,6 @@
 
 
 
-- 🌱 I’m currently learning **MERN STACK**
-
-- 👨‍💻 All of my projects are available at [https://balkrishnalamsal.com](https://balkrishnalamsal.com)
 
 - 💬 Ask me about **Flutter,**
 
